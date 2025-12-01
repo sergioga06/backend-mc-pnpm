@@ -1,2 +1,2 @@
-export * from './productos/create-productos.dto';
-export * from './usuario/create-usuario.dto'
+export * from './ms-productos/create-productos.dto';
+export * from './ms-usuarios/create-usuario.dto'
